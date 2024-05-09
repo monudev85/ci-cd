@@ -23,7 +23,7 @@ jobs:
       - name: Build Android APK
         run: |
           npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
-          cd android && ./gradlew assembleRelease
+          cd android && ./gradlew assemblerelease
 
       - name: Upload APK
         uses: actions/upload-artifact@v2

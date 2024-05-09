@@ -1,0 +1,23 @@
+{
+  "settings.change_language": "भाषा बदलें",
+  "settings.app_lock": "एप्लिकेशन का ताला",
+  "settings.app_logout":"लॉग आउट",
+  "welcome.title1":"सामाजिक रूप से आसानी",
+    "welcome.title2":"से नेविगेट करें",
+    "welcome.Signup_button":"नॉबी के साथ साइन अप करें",
+    "welcome.already_user":"पहले से ही उपयोगकर्ता?",
+    "welcome.login":"लॉग इन करें",
+    "login.title":"नए युग में प्रवेश करें",
+    "login.mobile_placeholder":"नॉबी I'd या मोबाइल नं",
+    "login.password_placeholder":"पासवर्ड",
+    "login.forgot_password":"पासवर्ड भूल गए?",
+    "login.login_button":"लॉग इन करें",
+    "signup.title": "नए युग में साइन अप करें",
+    "signup.mobile_no": "फोन नंबर दर्ज करें",
+    "signup.mobile_no_not_valid": "मोबाइल नंबर अमान्य है",
+    "signup.registering_you_agree_to_the": "रजिस्टर करके आप सहमत होते हैं",
+    "signup.terms": "उपयोग की",
+    "signup.privacy_policy":"शर्तें और गोपनीयता नीति",
+    "signup.sent_OTP": "OTP भेजा गया"
+
+  }

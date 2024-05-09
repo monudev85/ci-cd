@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "527312752339",
+    "project_id": "knobee-7115f",
+    "storage_bucket": "knobee-7115f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527312752339:android:f6baeca694b84ae9f28e26",
+        "android_client_info": {
+          "package_name": "com.knobee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527312752339-nsfg6dket32vv05p1aq648pp3lt2p6pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.knobee",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "527312752339-hqijpfg0e3qebbm2hd11hvdnhf73khd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz85DLlatUtioOVz6Qhm0Ngf_RKquQnXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527312752339-hqijpfg0e3qebbm2hd11hvdnhf73khd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527312752339-efihcgm6pn9o2tpl7m55ggi7jd0uok4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.KnoBee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

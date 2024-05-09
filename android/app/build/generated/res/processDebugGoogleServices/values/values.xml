@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">527312752339-hqijpfg0e3qebbm2hd11hvdnhf73khd4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">527312752339</string>
+    <string name="google_api_key" translatable="false">AIzaSyAz85DLlatUtioOVz6Qhm0Ngf_RKquQnXs</string>
+    <string name="google_app_id" translatable="false">1:527312752339:android:f6baeca694b84ae9f28e26</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAz85DLlatUtioOVz6Qhm0Ngf_RKquQnXs</string>
+    <string name="google_storage_bucket" translatable="false">knobee-7115f.appspot.com</string>
+    <string name="project_id" translatable="false">knobee-7115f</string>
+</resources>

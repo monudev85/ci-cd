@@ -1,0 +1,6 @@
+module Pods_KnoBee_KnoBeeTests {
+  umbrella header "Pods-KnoBee-KnoBeeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+    "TabNavigation": {
+      "Tabs": {
+        "Home": "家",
+        "Hive": "蜂巢",
+        "Chat": "聊天",
+        "Profile": "轮廓",
+        "Community": "社区"
+      }
+    },
+    "Settings": {
+      "AppLock": "应用锁",
+      "ScreenLockEnabled": "您已成功启用屏幕锁定。",
+      "AuthenticationFailed": "认证失败",
+      "PleaseTryAgain": "请重试。",
+      "BiometricAuthUnavailable": "生物识别身份验证不可用",
+      "BiometricAuthUnavailableMessage": "该设备上不可用生物识别身份验证。",
+      "Error": "错误",
+      "EnableScreenLockError": "无法启用屏幕锁定。请稍后重试。",
+      "Close": "关闭"
+    }
+  }

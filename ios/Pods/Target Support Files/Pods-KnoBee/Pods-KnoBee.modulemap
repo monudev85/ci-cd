@@ -1,0 +1,6 @@
+module Pods_KnoBee {
+  umbrella header "Pods-KnoBee-umbrella.h"
+
+  export *
+  module * { export * }
+}

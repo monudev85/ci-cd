@@ -1,0 +1,23 @@
+{
+    "settings.change_language": "Change Language",
+    "settings.app_lock":"App Lock",
+    "settings.app_logout":"Logout",
+    "welcome.title1":"Navigate socially",
+    "welcome.title2":"with ease...",
+    "welcome.Signup_button":"Sign Up with Knobee",
+    "welcome.already_user":"Already user?",
+    "welcome.login":"Log In",
+    "login.title":"Login to the new era",
+    "login.mobile_placeholder":"Knobee I'd or Mobile No",
+    "login.password_placeholder":"password",
+    "login.forgot_password":"Forgot Password?",
+    "login.login_button":"Log In",
+    "signup.title":"Sign up to the new era",
+    "signup.mobile_no":"Enter Phone Number",
+    "signup.mobile_no_not_valid":"Mobile number is not valid",
+    "signup.registering_you_agree_to_the":"By Registering you agree to the",
+    "signup.terms":"Terms of",
+    "signup.privacy_policy":"Use and Privacy Policy",
+    "signup.sent_OTP":"Sent OTP"
+}
+  

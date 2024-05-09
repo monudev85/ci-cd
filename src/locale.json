@@ -1,0 +1,90 @@
+{
+  "en": {
+    "TabNavigation": {
+      "Tabs": {
+        "Home": "Home",
+        "Hive": "Hive",
+        "Chat": "Chat",
+        "Profile": "Profile",
+        "Community": "Community"
+      }
+    },
+    "Settings": {
+      "AppLock": "App Lock",
+      "ScreenLockEnabled": "You have successfully enabled screen lock.",
+      "AuthenticationFailed": "Authentication Failed",
+      "PleaseTryAgain": "Please try again.",
+      "BiometricAuthUnavailable": "Biometric Authentication Unavailable",
+      "BiometricAuthUnavailableMessage": "Biometric authentication is not available on this device.",
+      "Error": "Error",
+      "EnableScreenLockError": "Failed to enable screen lock. Please try again later.",
+      "Close": "Close"
+    }
+  },
+  "zh": {
+    "TabNavigation": {
+      "Tabs": {
+        "Home": "家",
+        "Hive": "蜂巢",
+        "Chat": "聊天",
+        "Profile": "轮廓",
+        "Community": "社区"
+      }
+    },
+    "Settings": {
+      "AppLock": "应用锁",
+      "ScreenLockEnabled": "您已成功启用屏幕锁定。",
+      "AuthenticationFailed": "认证失败",
+      "PleaseTryAgain": "请重试。",
+      "BiometricAuthUnavailable": "生物识别身份验证不可用",
+      "BiometricAuthUnavailableMessage": "该设备上不可用生物识别身份验证。",
+      "Error": "错误",
+      "EnableScreenLockError": "无法启用屏幕锁定。请稍后重试。",
+      "Close": "关闭"
+    }
+  },
+  "kr": {
+    "TabNavigation": {
+      "Tabs": {
+        "Home": "집",
+        "Hive": "하이브",
+        "Chat": "채팅",
+        "Profile": "프로필",
+        "Community": "지역 사회"
+      }
+    },
+    "Settings": {
+      "AppLock": "앱 잠금",
+      "ScreenLockEnabled": "화면 잠금이 성공적으로 활성화되었습니다.",
+      "AuthenticationFailed": "인증 실패",
+      "PleaseTryAgain": "다시 시도하십시오.",
+      "BiometricAuthUnavailable": "생체 인식 인증을 사용할 수 없음",
+      "BiometricAuthUnavailableMessage": "이 장치에서 생체 인식 인증을 사용할 수 없습니다.",
+      "Error": "오류",
+      "EnableScreenLockError": "화면 잠금을 활성화하는 데 실패했습니다. 나중에 다시 시도하십시오.",
+      "Close": "닫기"
+    }
+  },
+  "hi": {
+    "TabNavigation": {
+      "Tabs": {
+        "Home": "घर",
+        "Hive": "मधुमुखी का छत्ता",
+        "Chat": "बात करना",
+        "Profile": "प्रोफ़ाइल",
+        "Community": "समुदाय"
+      }
+    },
+    "Settings": {
+      "AppLock": "एप्लिकेशन का ताला",
+      "ScreenLockEnabled": "आपने सफलतापूर्वक स्क्रीन लॉक सक्षम कर दिया है।",
+      "AuthenticationFailed": "प्रमाणीकरण असफल",
+      "PleaseTryAgain": "कृपया पुन: प्रयास करें।",
+      "BiometricAuthUnavailable": "बायोमेट्रिक प्रमाणीकरण अनुपलब्ध",
+      "BiometricAuthUnavailableMessage": "इस उपकरण पर बायोमेट्रिक प्रमाणीकरण उपलब्ध नहीं है।",
+      "Error": "त्रुटि",
+      "EnableScreenLockError": "स्क्रीन लॉक सक्षम करने में विफल। कृपया बाद में पुन: प्रयास करें।",
+      "Close": "बंद करें"
+    }
+  }
+}

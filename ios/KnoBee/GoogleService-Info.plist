@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527312752339-efihcgm6pn9o2tpl7m55ggi7jd0uok4g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527312752339-efihcgm6pn9o2tpl7m55ggi7jd0uok4g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527312752339-nsfg6dket32vv05p1aq648pp3lt2p6pb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCABMtJpvYVy8jK5h_tAAkOigCJdNQxO6M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527312752339</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.KnoBee</string>
+	<key>PROJECT_ID</key>
+	<string>knobee-7115f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>knobee-7115f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527312752339:ios:c19619768503f194f28e26</string>
+</dict>
+</plist>

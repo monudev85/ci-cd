@@ -22,8 +22,8 @@ jobs:
 
       - name: Build Android APK
         run: |
-          sudo npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
-          cd android && sudo ./gradlew assembleRelease
+          npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+          cd android && ./gradlew assembleRelease
 
       - name: Upload APK
         uses: actions/upload-artifact@v2

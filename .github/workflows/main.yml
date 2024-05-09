@@ -15,7 +15,7 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'
+          node-version: "18"
 
       - name: Install Dependencies
         run: npm install
@@ -23,7 +23,7 @@ jobs:
       - name: Build Android APK
         run: |
           npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
-          cd android && ./gradlew assemblerelease
+          cd android && ./gradlew assembleRelease
 
       - name: Upload APK
         uses: actions/upload-artifact@v2

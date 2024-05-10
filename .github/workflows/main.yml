@@ -19,9 +19,6 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
-        
-      - name: Check npm and Node.js installation
-        run: npm doctor
 
       - name: Build Android APK
         run: |

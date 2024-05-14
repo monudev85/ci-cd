@@ -37,4 +37,6 @@ jobs:
         with:
           name: app-release
           path: android\app\build\outputs\apk\release\app-release.apk
-          distribution: local
+        env:
+          UPLOAD_ARTIFACTS_DIST: 'local'
+
